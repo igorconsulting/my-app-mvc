@@ -1,0 +1,4 @@
+database/
+.DS_Store
+uv.lock
+.venv
