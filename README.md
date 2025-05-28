@@ -141,4 +141,4 @@ curl "http://127.0.0.1:3001/rota/user/get?name=igor"
 ## Author
 
 **Igor Caetano Diniz**
-Machine Learning Engineer | Software Engineer | Data Consultant
+Machine Learning Engineer | Data Scientist | Msc. Mathematics | PhD Student Data Science
